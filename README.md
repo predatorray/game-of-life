@@ -18,3 +18,7 @@ mvn clean compile
 ```sh
 java -cp target/classes/ me.predatorray.GameOfLife
 ```
+
+
+[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/predatorray/game-of-life/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
+
